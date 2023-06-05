@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExpenseMaster</string>
+    <string name="More">More</string>
+    <string name="Accounts">Accounts</string>
+    <string name="Stats">Stats</string>
+    <string name="Trans.">Trans.</string>
+    <string name="Search">Search</string>
+    <string name="Favorite">Favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
